@@ -1,0 +1,13 @@
+{
+  "block.createlowheated.basic_burner": "기본 버너",
+  "block.createlowheated.basic_burner.tooltip": "기본 버너",
+  "block.createlowheated.basic_burner.tooltip.behaviour1": "_연료_를 들고 우클릭하거나, _퍼널 / 기계 손 / 기계 팔_을 사용하세요.",
+  "block.createlowheated.basic_burner.tooltip.behaviour2": "_불_을 붙이기 위해선 _부싯돌과 부시_로 우클릭해야 합니다. 연료를 다 사용하기 전까지 불타오릅니다.",
+  "block.createlowheated.basic_burner.tooltip.behaviour3": "최고 속도의 선풍기를 이용하면 강화가 가능합니다.",
+  "block.createlowheated.basic_burner.tooltip.condition1": "연료가 필요합니다",
+  "block.createlowheated.basic_burner.tooltip.condition2": "부싯돌과 부시가 필요합니다",
+  "block.createlowheated.basic_burner.tooltip.condition3": "강화된 버너",
+  "block.createlowheated.basic_burner.tooltip.summary": "_대야 제작_과 _증기 엔진_에 _열_을 제공합니다.",
+  "create.recipe.heat_requirement.lowheated": "저온 가열",
+  "itemGroup.createlowheated.base": "크리에이트: 저온 가열"
+}

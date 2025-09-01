@@ -21,3 +21,4 @@ except ImportError as e:
 except Exception as e:
     print(f"Error running translation manager: {e}")
     sys.exit(1)
+ 

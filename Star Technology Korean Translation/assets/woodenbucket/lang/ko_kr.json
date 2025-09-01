@@ -1,0 +1,5 @@
+{
+  "item.woodenbucket.wooden_bucket": "나무 양동이",
+  "item.woodenbucket.wooden_bucket.entity": "%s 나무 양동이",
+  "item.woodenbucket.wooden_bucket.filled": "나무 %s 양동이"
+}

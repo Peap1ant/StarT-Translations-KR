@@ -225,3 +225,34 @@ This tool is provided for the Star Technology modpack translation project. Pleas
 ---
 
 Happy translating! 🌟
+
+---
+
+# Korean lang only part
+
+I(peaplant) made resource pack for Star Technology translation!
+
+"Star Technology Korean Translation" resource pack will translating some important things from playthrough.
+
+If you check the mod list, check the inside of "resourcepack file".
+
+If item doesn't used in mod pack, I translated it as "게임에서 사용 안 함"(Not used in game).
+
+## 한국어 설명
+
+Star Technology의 번역을 위해 특별히 만든 리소스팩입니다!
+
+이 리소스팩은 게임을 진행하는데 필요한 중요한 몇몇 모드의 번역이 들어가 있습니다.
+
+이미 번역되어 있는 모드의 경우 따로 번역하지 않았습니다.
+
+"resourcepack files"에서 번역된 모드 ID를 확인 가능합니다
+
+만약 모드팩에서 사용하지 않는 아이템이라면 "게임에서 사용 안 함"또는 "모드팩에서 달성 불가능한 항목입니다"으로  역하였습니다(모드팩에서 사용하는 아이템인데 해당 번역으로 되어 있다면 보고 바랍니다).
+
+### 현재 발견된 문제
+
+#### 제보 방법
+
+해당 문제가 발생하는 상황과 스크린샷, 언어로 영어로 바꿨을 때 나오는 문자열을 공식 디코의 한국어 번역 스레드로 보내주면 됩니다.
+
