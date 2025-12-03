@@ -22,3 +22,4 @@ except Exception as e:
     print(f"Error running translation manager: {e}")
     sys.exit(1)
  
+ # python launch_gui.py

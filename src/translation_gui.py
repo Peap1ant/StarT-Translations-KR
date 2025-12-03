@@ -2,6 +2,7 @@
 Translation GUI - Modern GUI application for managing translations
 """
 
+import ctypes
 import sys
 import os
 import json
@@ -245,6 +246,27 @@ class TranslationGUI:
         self.root.title("StarT Translations Manager")
         self.root.geometry("1200x800")
         self.root.minsize(800, 600)
+
+        # Set Font
+
+        # 1. add font path
+        self.font_path = os.path.abspath('./src/fonts/D2CodingBold-Ver1.3.2-20180524.ttf')
+
+        # 2. Load font from file
+        if os.path.exists(self.font_path):
+            try:
+                # Try font load
+                ctypes.windll.gdi32.AddFontResourceExW(self.font_path, 0x10, 0)
+                print(f'Font loaded: {self.font_path}')
+            except Exception as e:
+                print(f'Font load error: {e}')
+        else:
+            print(f'There is no font file at: {self.font_path}')
+
+        # 3. Set font
+        # Do not use file name, instead, use font name
+        # Use D2Coding font with size 10 at here
+        self.root.option_add('*Font', 'D2Coding 10')
         
         # Initialize variables
         self.translation_manager = None
@@ -518,7 +540,8 @@ class TranslationGUI:
             ('§5', 'Purple', '#AA00AA'),
             ('§f', 'White', '#FFFFFF'),
             ('§7', 'Gray', '#AAAAAA'),
-            ('§r', 'Reset', None)
+            ('§r', 'Reset', '#FFFFFF'),
+            ('§', 'Add §', '#FFFFFF')
         ]
         
         # Create quick color frame
@@ -527,8 +550,8 @@ class TranslationGUI:
         
         ttk.Label(color_frame, text="Quick:").pack(side=tk.LEFT, padx=(0, 5))
         
-        for code, name, color in quick_colors[:6]:  # Show first 6 colors
-            btn = tk.Button(color_frame, text=code[1:], width=2, height=1,
+        for code, name, color in quick_colors[:14]:  # Show first 14 colors
+            btn = tk.Button(color_frame, text=code, width=2, height=1,
                            command=lambda c=code: self.insert_quick_format(c))
             if color:
                 try:

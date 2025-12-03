@@ -709,7 +709,7 @@
   "tag.minecraft.strider_tempt_items": "스트라이더 유혹 가능",
   "tag.minecraft.turtle_food": "거북 음식",
   "tag.minecraft.wolf_food": "늑대 음식",
-  "tooltip.emi.accepts": "",
+  "tooltip.emi.accepts": "허용됨:",
   "tooltip.emi.bom.batch_size": "묶음 크기: %s\n스크롤로 조정\n§6[shift]§r키를 눌러 16씩 변경",
   "tooltip.emi.bom.batch_size.ideal": "§s를 눌러 나머지가 없는 최솟값 찾기",
   "tooltip.emi.bom.help": "레시피 트리는 레시피의 가공 과정이나 기본 비용을 표시합니다\n화면을 좌우로 움직이거나 확대 및 축소가 가능합니다\n\n노드를 좌클릭해 해당 노드에 할당할 레시피를 선택할 수 있습니다\n§6[shift]§r키를 누르고 있으면 인벤토리 내에 있는 아이템을 기반으로 선택합니다\n\n노드를 우클릭해 일시적으로 축소할 수 있습니다\n§6[shift]§r을 눌러 레시피 초기화가 가능합니다\n\n초기 트리 상태는 기본으로 설정한 레시피를 기반으로 보여줍니다\n레시피 옆의 하트 버튼으로 기본 레시피를 설정할 수 있습니다\n\n총비용을 바꿔 레시피 트리 제작에 도움을 줄 수 있습니다\n제작 중 필요한 재료가 표시됩니다\n§b즐겨찾기 자동 추가§r 기능은 제작에 필요한 아이템을 즐겨찾기에 추가합니다\n필요한 아이템을 표시해 제작에 도움을 줍니다",

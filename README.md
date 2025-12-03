@@ -238,6 +238,8 @@ If you check the mod list, check the inside of "resourcepack file".
 
 If item doesn't used in mod pack, I translated it as "게임에서 사용 안 함"(Not used in game).
 
+This project used [D2Coding](https://github.com/naver/d2codingfont/tree/VER1.3.2) for some GUI.
+
 ## 한국어 설명
 
 Star Technology의 번역을 위해 특별히 만든 리소스팩입니다!
@@ -250,9 +252,11 @@ Star Technology의 번역을 위해 특별히 만든 리소스팩입니다!
 
 만약 모드팩에서 사용하지 않는 아이템이라면 "게임에서 사용 안 함"또는 "모드팩에서 달성 불가능한 항목입니다"으로  역하였습니다(모드팩에서 사용하는 아이템인데 해당 번역으로 되어 있다면 보고 바랍니다).
 
+번역용 시트의 경우 [여기서](https://docs.google.com/spreadsheets/d/1zOqoWzBYYEpRcTa_qpinqBvEB5PP4odL3ipU2ORtmNA/edit?usp=sharing) 확인이 가능합니다.
+
 ### 현재 발견된 문제
 
 #### 제보 방법
 
-해당 문제가 발생하는 상황과 스크린샷, 언어로 영어로 바꿨을 때 나오는 문자열을 공식 디코의 한국어 번역 스레드로 보내주면 됩니다.
+해당 문제가 발생하는 상황과 스크린샷, 언어로 영어로 바꿨을 때 나오는 문자열을 [공식 디코](https://discord.com/invite/startechnology)의 development-discussions의 한국어 번역 스레드로 보내주면 됩니다.
 
