@@ -1,0 +1,21 @@
+{
+  "ae2ct.openscreen.plannull": "조합 확인 계산이 완료되길 기다리는 중...",
+  "ae2ct.screenshot.exception": "스크린샷 실패, 이유: %s",
+  "ae2ct.screenshot.noready": "스크린샷이 아직 준비되지 않았습니다. 잠시 뒤에 다시 시도하세요.",
+  "gui.ae2ct.CraftingAmount": "조합 수: %s",
+  "gui.ae2ct.CraftingTreeSettingTitle": "설정",
+  "gui.ae2ct.CraftingTreeTitle": "조합 트리",
+  "gui.ae2ct.Info": "정보:",
+  "gui.ae2ct.InputAmount": "필요한 양: %s",
+  "gui.ae2ct.MiddenAmount": "사용하는 양: %s",
+  "gui.ae2ct.MissingAmount": "부족한 양: %s",
+  "gui.ae2ct.OutputAmount": "출력 양: %s",
+  "gui.ae2ct.ScreenShotShowCountCheckbox": "스크린샷 개수 보이기",
+  "gui.ae2ct.Screenshot": "스크린샷",
+  "gui.ae2ct.Setting": "설정",
+  "gui.ae2ct.ShowMissingOnly": "없는 아이템 / 액체만 표시",
+  "gui.ae2ct.ShowMissingOnlyByDefault": "기본으로 없는 아이템 / 액체만 표시",
+  "gui.ae2ct.ShowTree": "조합 트리 표시",
+  "gui.ae2ct.StoredAmount": "저장된 양: %s",
+  "gui.ae2ct.UseCompactTreeCheckbox": "압축된 조합 트리 표시(베타)"
+}
