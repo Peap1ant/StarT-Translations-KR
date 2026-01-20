@@ -21,6 +21,7 @@
   "block.expatternprovider.oversize_interface": "ME Oversize Interface",
   "block.expatternprovider.silicon_block": "Block of Silicon",
   "block.expatternprovider.wireless_connect": "ME Wireless Connector",
+  "block.wireless_hub": "ME Wireless Hub",
   "chat.ex_pattern_access_terminal.pos": "The pattern provider is now highlighted at: %s, Dim: %s",
   "chat.pattern_view.error": "This pattern isn't supported by ExtendedAE, please report it to Github: %s",
   "chat.wireless.highlight": "The wireless connector is now highlighted at: %s, Dim: %s",

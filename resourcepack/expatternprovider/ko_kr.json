@@ -21,6 +21,7 @@
   "block.expatternprovider.oversize_interface": "ME 큰 인터페이스",
   "block.expatternprovider.silicon_block": "실리콘 블록",
   "block.expatternprovider.wireless_connect": "ME 무선 연결기",
+  "block.wireless_hub": "ME 무선 허브",
   "chat.ex_pattern_access_terminal.pos": "이 패턴 제공기가 표기됩니다. 위치: %s, 차원: %s에 존재함",
   "chat.pattern_view.error": "이 패턴은 모드에서 지원하지 않습니다. Github에 보고해주세요: %s",
   "chat.wireless.highlight": "이 무선 연결기가 표시됩니다. 위치: %s, 차원: %s에 존재함",
